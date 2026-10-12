@@ -27,5 +27,5 @@ I am not trying to build a massive framework. I am trying to build one that make
 - Build for the next developer.
 
 ## Links
-- GitHub: [github.com/arthur-campbell-15](https://github.com/Eilidh-25)
+- GitHub: [github.com/Eilidh-25](https://github.com/Eilidh-25)
 - Alfi: [github.com/alfi-framework/alfi](https://github.com/alfi-framework/alfi)
